@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0078D4&height=220&section=header&text=Sagar%20Sahu&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20%26%20AI&descSize=20&descAlignY=55&descColor=58A6FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0078D4&height=220&section=header&text=Sagar%20Sahu&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20and%20AI&descSize=20&descAlignY=55&descColor=58A6FF&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+high-performance+systems+at+the+hardware-software+boundary;GPU+%7C+NPU+%7C+Edge+AI+%7C+Cloud+%7C+Security)](https://git.io/typing-svg)
