@@ -1,124 +1,108 @@
-<div align="center">
+<h1 align="center">Sagar Sahu</h1>
+<p align="center">
+  <b>Engineering Leader · Senior Software Engineer (Squad Lead) @ Microsoft</b><br/>
+  Agentic AI · Cloud Distributed Systems · Low-Level Platforms
+</p>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0078D4&height=220&section=header&text=Sagar%20Sahu&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20and%20AI&descSize=20&descAlignY=55&descColor=58A6FF&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-12%2B%20yrs-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Patents-2%20Agentic%20AI%20(Filed)-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinnacle%202026-Honorable%20Mention-F2C94C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ACM--ICPC-Regionalist-2EA043?style=flat-square" />
+</p>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+high-performance+systems+at+the+hardware-software+boundary;GPU+%7C+NPU+%7C+Edge+AI+%7C+Cloud+%7C+Security)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" />
+</p>
 
-</div>
+> 🟢 **Currently:** Architecting multi-agent systems on Azure AI Foundry and Semantic Kernel. Shipping Copilot Memory and WorkIQ capabilities at scale.
 
-## `> whoami`
+I design and ship **agentic systems that run reliably in production**: planners, tool routers, memory layers, and the distributed infrastructure under them. My career runs from **ARM TrustZone and on-device NN runtimes** up to **planet-scale Azure services**, so I reason about AI systems from silicon constraints to SLOs.
 
-```python
-class SagarSahu:
-    role      = "Senior Software Engineer"
-    exp       = "10+ years shipping production systems"
-    focus     = ["Heterogeneous Computing", "Edge AI", "Systems Programming", "Cloud & Security"]
-    languages = ["Python", "C++", "C", "Rust", "Shell", "TypeScript"]
-    currently = "Programming AMD GPUs & NPUs for accelerated AI inference"
-```
+---
 
-I build software that runs **close to the metal** — from GPU kernels and NPU inference pipelines to cloud-scale security agents deployed on millions of endpoints. I care about performance, correctness, and writing code that other engineers enjoy reading.
+## 🧭 What I Focus On
+
+- **Multi-Agent Systems & Tool Orchestration**
+  Planner/executor topologies, tool-calling contracts, grounding and memory (Copilot Memory, WorkIQ), evaluation harnesses, and guardrails for autonomous workflows on **Azure AI Foundry** and **Semantic Kernel**.
+- **Cloud Scale & Microservices**
+  Event-driven, multi-region services on Azure and Kubernetes. Idempotency, backpressure, and graceful degradation built in from the start, with telemetry in **OpenTelemetry + Kusto**.
+- **Platform & Embedded Systems**
+  6 years at **Qualcomm** leading Edge AI runtimes (**TFLite, NNAPI**) and **ARM TrustZone** secure execution environments. Performance, isolation, and determinism on constrained hardware.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**AI / ML / Accelerated Computing**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronosgroup&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+| Domain | Stack |
+|---|---|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **AI / ML** | ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5C2D91?style=flat-square&logo=microsoft&logoColor=white) ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) |
+| **Cloud / Ops** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Kusto](https://img.shields.io/badge/Kusto%20(KQL)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Security / Embedded** | ![ARM TrustZone](https://img.shields.io/badge/ARM%20TrustZone-0091BD?style=flat-square&logo=arm&logoColor=white) ![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-FCC624?style=flat-square&logo=linux&logoColor=black) ![Yocto](https://img.shields.io/badge/Yocto-1B5E20?style=flat-square&logo=linuxfoundation&logoColor=white) |
 
 ---
 
-## 📌 Featured Projects
+## 🧱 Leadership & Engineering Philosophy
 
-<div align="center">
+- **Agents for the engineers, too.** I build internal agent ecosystems: **Day-1 onboarding agents** that make new hires productive in hours, and **triage/maintenance agents** that cut incident toil and keep the codebase healthy.
+- **Write it down before it's built.** Architectural governance through **ADRs and HLDs**. Decisions are explicit, reviewable, and reversible by design.
+- **Squads that scale without me.** I set clear ownership boundaries, raise the review bar, and mentor toward autonomy. The goal is a team that ships confidently without me in the room.
+- **Measure, then optimize.** Telemetry-first development. If it isn't observable, it isn't done.
 
-<a href="https://github.com/sagarsahu27/gemem-AMD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsahu27&repo=gemem-AMD&theme=github_dark&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/sagarsahu27/YoutubeSummarizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsahu27&repo=YoutubeSummarizer&theme=github_dark&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
+---
 
-</div>
+## 🏆 Highlighted Work, Patents & Research
 
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [**gemem-AMD**](https://github.com/sagarsahu27/gemem-AMD) | 9-session tutorial series: heterogeneous computing on AMD GPU (RDNA 3.5) + NPU (XDNA 2) — from OpenCL kernels to INT8 quantization | `Python` `OpenCL` `ONNX Runtime` `PyTorch` |
-| [**YoutubeSummarizer**](https://github.com/sagarsahu27/YoutubeSummarizer) | AI-powered YouTube video summarizer with periodic updates | `Python` `AI/ML` |
-| [**sample-app-aoai-chatGPT**](https://github.com/sagarsahu27/sample-app-aoai-chatGPT) | Web chat interface powered by Azure OpenAI ChatGPT | `TypeScript` `Azure OpenAI` |
-| [**distributed_computing**](https://github.com/sagarsahu27/distributed_computing) | Distributed systems fundamentals — consensus, replication, fault tolerance | `C` `MPI` |
+| | |
+|---|---|
+| 📜 **Patents** | 2 Agentic AI patents (in filing) covering multi-agent orchestration and personalized agent systems |
+| 🥈 **Pinnacle 2026** | Honorable Mention for the *Personalized Agent Template* |
+| 🚀 **Microsoft Global Hackathon** | Executive Challenge Winner |
+| 🔬 **Published Research** | Diabetic Retinopathy detection using deep learning for medical imaging |
+| 🧮 **ACM-ICPC** | Regionalist |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sagarsahu27&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sagarsahu27&show_icons=true&hide_border=true&theme=default&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsahu27&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsahu27&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
+  </picture>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagarsahu27&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsahu27&layout=compact&theme=github_dark&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sagarsahu27&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <img src="https://streak-stats.demolab.com/?user=sagarsahu27&hide_border=true&background=00000000" />
+  </picture>
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sagarsahu27&theme=github-dark-blue&border=30363d&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="180"/>
-
-</div>
-
----
-
-## 🧠 What I'm Working On
-
-- 🔥 **Heterogeneous Computing** — Writing GPU/NPU kernels for AMD Ryzen AI (RDNA 3.5 + XDNA 2)
-- 🧮 **Performance Engineering** — Amdahl's Law → Roofline Model → Kernel Fusion → real benchmarks
-- 🤖 **Edge AI** — INT8 quantization, ONNX Runtime execution providers, on-device inference
-- ☁️ **Cloud + AI** — Azure OpenAI, Databricks, building production ML pipelines
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarsahu27&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
 ---
 
 ## 🤝 Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/sagarsahu27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sagarsahu27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Hyderabad,%20India-24292F?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarsahu27/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarsahu27)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sagarsahu27@hotmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0078D4&height=100&section=footer" width="100%"/>
-
-<sub>⚡ *"Make it work, make it right, make it fast."* — Kent Beck</sub>
-
-</div>
+<p align="center"><sub>Building agents that ship: grounded, observable, and governed.</sub></p>
