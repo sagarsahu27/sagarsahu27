@@ -66,6 +66,7 @@ I design and ship **agentic systems that run reliably in production**: planners,
 | 📜 **Patents** | 2 Agentic AI patents (in filing) covering multi-agent orchestration and personalized agent systems |
 | 🥈 **Pinnacle 2026** | Honorable Mention for the *Personalized Agent Template* |
 | 🚀 **Microsoft Global Hackathon** | Executive Challenge Winner |
+| 🛠️ **QIPL Maker Challenge 2017** | Winner |
 | 🔬 **Published Research** | Diabetic Retinopathy detection using deep learning for medical imaging |
 | 🧮 **ACM-ICPC** | Regionalist |
 
