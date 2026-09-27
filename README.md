@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-12%2B%20yrs-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Patents-2%20Agentic%20AI%20(Filed)-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20Innovation-6E40C9?style=flat-square" />
   <img src="https://img.shields.io/badge/Pinnacle%202026-Honorable%20Mention-F2C94C?style=flat-square" />
   <img src="https://img.shields.io/badge/ACM--ICPC-Regionalist-2EA043?style=flat-square" />
 </p>
@@ -63,7 +63,7 @@ I design and ship **agentic systems that run reliably in production**: planners,
 
 | | |
 |---|---|
-| 📜 **Patents** | 2 Agentic AI patents (in filing) covering multi-agent orchestration and personalized agent systems |
+| 💡 **Agentic AI Innovation** | Original work on multi-agent orchestration and personalized agent systems |
 | 🥈 **Pinnacle 2026** | Honorable Mention for the *Personalized Agent Template* |
 | 🚀 **Microsoft Global Hackathon** | Executive Challenge Winner |
 | 🛠️ **QIPL Maker Challenge 2017** | Winner |
